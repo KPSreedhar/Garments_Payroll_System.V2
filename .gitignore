@@ -1,0 +1,3 @@
+# Keep real database credentials out of git if this repo is public.
+# Copy config.php to config.php.example before committing, or just
+# remember to blank out DB_HOST/DB_USER/DB_PASS before pushing.
